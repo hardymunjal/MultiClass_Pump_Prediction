@@ -41,3 +41,6 @@ Our goal is to predict the operating condition of a waterpoint for each record i
 - source_class - The source of the water
 - waterpoint_type - The kind of waterpoint
 - waterpoint_type_group - The kind of waterpoint
+
+# Competition Source
+- https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/
