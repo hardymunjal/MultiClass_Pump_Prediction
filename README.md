@@ -1,4 +1,4 @@
-# MultiClass_Pump_Prediction
+# Pump Health Prediction
 
 ## Problem Statement
 We worked on a predictive modeling (multi-class) problem where we used data from Taarifa and the Tanzanian Ministry of Water, to predict which pumps were functional, which need some repairs, and which don't work at all. 
